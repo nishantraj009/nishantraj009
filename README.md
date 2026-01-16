@@ -3,6 +3,10 @@
 I am a 3rd-year CSE student passionate about coding and building projects.  
 I enjoy learning new technologies and solving real-world problems.
 
+## 💻 skills:-
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/5cc2dc5c-6c18-4c69-862d-170866288ef7" />
+
+ 
 
 
 ## 🌐 Socials:
