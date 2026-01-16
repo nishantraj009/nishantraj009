@@ -3,11 +3,6 @@
 I am a 3rd-year CSE student passionate about coding and building projects.  
 I enjoy learning new technologies and solving real-world problems.
 
-## 💻 skills:-
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/5cc2dc5c-6c18-4c69-862d-170866288ef7" />
-
- 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/nishant-raj-227255293/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/NishantRaj65202) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@ApnaProgrammer-e8r) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishant.raj.cs.2023@mitmeerut.ac.in) 
